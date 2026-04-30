@@ -1,0 +1,3522 @@
+[
+  {
+    "id": "10188:13229",
+    "name": "Container",
+    "type": "FRAME",
+    "properties": {
+      "position": {
+        "x": 2619,
+        "y": -4430
+      },
+      "size": {
+        "width": 804,
+        "height": 1827
+      },
+      "rotation": 0,
+      "styles": {
+        "fills": [],
+        "strokes": [],
+        "effects": []
+      },
+      "layout": {
+        "direction": "VERTICAL",
+        "itemSpacing": 40,
+        "padding": {
+          "left": 60,
+          "top": 0,
+          "right": 60,
+          "bottom": 0
+        }
+      }
+    },
+    "children": [
+      {
+        "id": "10188:13230",
+        "name": "Font layout",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -4430
+          },
+          "size": {
+            "width": 684,
+            "height": 100
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:13231",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2681.64208984375,
+                "y": -4423.8408203125
+              },
+              "size": {
+                "width": 125.93115234375,
+                "height": 23.181640625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Inter font",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 30
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 36
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          },
+          {
+            "id": "10188:13232",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.022705078125,
+                "y": -4374.22705078125
+              },
+              "size": {
+                "width": 629.270263671875,
+                "height": 43.54541015625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Our platform leverages the Inter font, a clean and modern typeface optimized for digital interfaces",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 20
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 24
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:13233",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -4290
+          },
+          "size": {
+            "width": 684,
+            "height": 100
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22036",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -4290
+              },
+              "size": {
+                "width": 684,
+                "height": 36
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:13234",
+                "name": "H1: Header",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2681.64208984375,
+                    "y": -4282.818359375
+                  },
+                  "size": {
+                    "width": 153.3583984375,
+                    "height": 22.20166015625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "H1: Header",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 30
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 36
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22037",
+                "name": "(Size: 30px / Line-height: 36px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2847.196044921875,
+                    "y": -4285.54541015625
+                  },
+                  "size": {
+                    "width": 441.085693359375,
+                    "height": 31.0224609375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 30px / Line-height: 36px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 30
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 36
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:13235",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2679.511474609375,
+                "y": -4234.22705078125
+              },
+              "size": {
+                "width": 641.436279296875,
+                "height": 39.48291015625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for main system titles, such as the title of a dashboard or main feature sections.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 20
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 24
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:22039",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -4150
+          },
+          "size": {
+            "width": 684,
+            "height": 76
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22040",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -4150
+              },
+              "size": {
+                "width": 684,
+                "height": 36
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:22041",
+                "name": "H2: Header semi bold",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.7216796875,
+                    "y": -4141.79833984375
+                  },
+                  "size": {
+                    "width": 245.177490234375,
+                    "height": 18.5625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "H2: Header semi bold ",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Semi Bold",
+                    "size": 24
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 29
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22042",
+                "name": "(Size: 24px / Line-height: 29px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2938.556884765625,
+                    "y": -4142.63623046875
+                  },
+                  "size": {
+                    "width": 351.39208984375,
+                    "height": 24.81787109375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 24px / Line-height: 29px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 24
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 36
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:22043",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.42041015625,
+                "y": -4086.01708984375
+              },
+              "size": {
+                "width": 6.36376953125,
+                "height": 1.5625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "-",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 20
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 24
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:22045",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -4034
+          },
+          "size": {
+            "width": 684,
+            "height": 112
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22046",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -4034
+              },
+              "size": {
+                "width": 684,
+                "height": 24
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:22047",
+                "name": "H3: Header",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.761474609375,
+                    "y": -4029.744384765625
+                  },
+                  "size": {
+                    "width": 105.67626953125,
+                    "height": 15
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "H3: Header ",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 20
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 24
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22048",
+                "name": "(Size: 20px / Line-height: 24px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2797.130615234375,
+                    "y": -4031.363525390625
+                  },
+                  "size": {
+                    "width": 292.84619140625,
+                    "height": 20.681640625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 20px / Line-height: 24px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 20
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 24
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:22049",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2679.625,
+                "y": -3990.227294921875
+              },
+              "size": {
+                "width": 651.636962890625,
+                "height": 67.54541015625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for subheaders within sections, offering a clear hierarchy under the primary headers. Mostly used for modal top titles, table titles in a page.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 20
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 24
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:22051",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -3882
+          },
+          "size": {
+            "width": 684,
+            "height": 83
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22052",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -3882
+              },
+              "size": {
+                "width": 684,
+                "height": 19
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:22053",
+                "name": "H4: Small Title",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.4091796875,
+                    "y": -3879
+                  },
+                  "size": {
+                    "width": 107.1845703125,
+                    "height": 12.20458984375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "H4: Small Title",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 16
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 19
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22054",
+                "name": "(Size: 16px / Line-height: 19px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2798.70458984375,
+                    "y": -3880.0908203125
+                  },
+                  "size": {
+                    "width": 229.72998046875,
+                    "height": 16.54541015625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 16px / Line-height: 19px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 16
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 19
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:22055",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2679.625,
+                "y": -3843.227294921875
+              },
+              "size": {
+                "width": 647.82666015625,
+                "height": 43.54541015625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for smaller titles within components, such as modal top section titles and table titles in a page.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 20
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 24
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:22057",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -3759
+          },
+          "size": {
+            "width": 684,
+            "height": 59
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22058",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -3759
+              },
+              "size": {
+                "width": 684,
+                "height": 19
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:22059",
+                "name": "H4: Small Title Medium",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.2783203125,
+                    "y": -3756.102294921875
+                  },
+                  "size": {
+                    "width": 174.008544921875,
+                    "height": 12.29541015625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "H4: Small Title Medium",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Medium",
+                    "size": 16
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 19
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22060",
+                "name": "(Size: 16px / Line-height: 19px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2865.70458984375,
+                    "y": -3757.0908203125
+                  },
+                  "size": {
+                    "width": 229.72998046875,
+                    "height": 16.54541015625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 16px / Line-height: 19px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 16
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 19
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:22061",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.42041015625,
+                "y": -3712.01708984375
+              },
+              "size": {
+                "width": 6.36376953125,
+                "height": 1.5625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "-",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 20
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 24
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:22064",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -3660
+          },
+          "size": {
+            "width": 684,
+            "height": 59
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22065",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -3660
+              },
+              "size": {
+                "width": 684,
+                "height": 19
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:22066",
+                "name": "H4: Small Title Semi bold",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.147705078125,
+                    "y": -3657.198974609375
+                  },
+                  "size": {
+                    "width": 190.20166015625,
+                    "height": 12.375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "H4: Small Title Semi bold",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Semi Bold",
+                    "size": 16
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 19
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22067",
+                "name": "(Size: 16px / Line-height: 19px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2881.70458984375,
+                    "y": -3658.0908203125
+                  },
+                  "size": {
+                    "width": 229.72998046875,
+                    "height": 16.54541015625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 16px / Line-height: 19px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 16
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 19
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:22068",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.42041015625,
+                "y": -3613.01708984375
+              },
+              "size": {
+                "width": 6.36376953125,
+                "height": 1.5625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "-",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 20
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 24
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:22070",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -3561
+          },
+          "size": {
+            "width": 684,
+            "height": 67.022705078125
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22071",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -3561
+              },
+              "size": {
+                "width": 684,
+                "height": 17.022705078125
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:22072",
+                "name": "Body: Regular",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.23291015625,
+                    "y": -3557.181884765625
+                  },
+                  "size": {
+                    "width": 90.2978515625,
+                    "height": 13.20458984375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Body: Regular",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22073",
+                "name": "(Size: 14px / Line-height: 17px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2780.491455078125,
+                    "y": -3558.45458984375
+                  },
+                  "size": {
+                    "width": 200.521728515625,
+                    "height": 14.477294921875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 14px / Line-height: 17px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:22074",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.073974609375,
+                "y": -3524.6591796875
+              },
+              "size": {
+                "width": 665.87744140625,
+                "height": 30.681884765625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for body text, input fields, their labels, and helper text, filters and their links, descriptive texts in modal windows and empty state images and other text across the platform.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 14
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 17
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:22076",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -3454
+          },
+          "size": {
+            "width": 684,
+            "height": 53.022705078125
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22077",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -3454
+              },
+              "size": {
+                "width": 684,
+                "height": 20
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:22078",
+                "name": "Body Article: Regular",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.23291015625,
+                    "y": -3449.5
+                  },
+                  "size": {
+                    "width": 137.0830078125,
+                    "height": 13.522705078125
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Body Article: Regular",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 20
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22079",
+                "name": "(Size: 14px / Line-height: 20px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2827.491455078125,
+                    "y": -3449.95458984375
+                  },
+                  "size": {
+                    "width": 203.242431640625,
+                    "height": 14.477294921875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 14px / Line-height: 20px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:22080",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.23291015625,
+                "y": -3414.6591796875
+              },
+              "size": {
+                "width": 294.702392578125,
+                "height": 13.681884765625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for articles and bigger text paragraphs. ",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 14
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 17
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:22082",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -3361
+          },
+          "size": {
+            "width": 684,
+            "height": 53.022705078125
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22083",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -3361
+              },
+              "size": {
+                "width": 684,
+                "height": 20
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:22084",
+                "name": "Body: Medium",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.11865234375,
+                    "y": -3356.589599609375
+                  },
+                  "size": {
+                    "width": 93.57763671875,
+                    "height": 13.453125
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Body: Medium ",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Medium",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 20
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22085",
+                "name": "(Size: 14px / Line-height: 20px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2784.491455078125,
+                    "y": -3356.95458984375
+                  },
+                  "size": {
+                    "width": 203.242431640625,
+                    "height": 14.477294921875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 14px / Line-height: 20px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:22086",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.23291015625,
+                "y": -3321.6591796875
+              },
+              "size": {
+                "width": 294.702392578125,
+                "height": 13.681884765625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for articles and bigger text paragraphs. ",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 14
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 17
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:25046",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -3268
+          },
+          "size": {
+            "width": 684,
+            "height": 53
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:25047",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -3268
+              },
+              "size": {
+                "width": 684,
+                "height": 20
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:25048",
+                "name": "Body: Semi bold",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.004150390625,
+                    "y": -3263.674072265625
+                  },
+                  "size": {
+                    "width": 107.022216796875,
+                    "height": 13.53759765625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Body: Semi bold ",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Semi Bold",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 20
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:25049",
+                "name": "(Size: 14px / Line-height: 20px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2798.491455078125,
+                    "y": -3263.95458984375
+                  },
+                  "size": {
+                    "width": 203.242431640625,
+                    "height": 14.477294921875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 14px / Line-height: 20px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:25050",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.23291015625,
+                "y": -3228.6591796875
+              },
+              "size": {
+                "width": 211.331298828125,
+                "height": 10.838134765625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for modal section dividers.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 14
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 17
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "13172:18996",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -3175
+          },
+          "size": {
+            "width": 684,
+            "height": 50
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "13172:18997",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -3175
+              },
+              "size": {
+                "width": 684,
+                "height": 17.022705078125
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "13172:19004",
+                "name": "Body: Semi bold 2",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.004150390625,
+                    "y": -3171.674072265625
+                  },
+                  "size": {
+                    "width": 119.373046875,
+                    "height": 13.53759765625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Body: Semi bold 2",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Semi Bold",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "13172:18999",
+                "name": "(Size: 14px / Line-height: 17px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2810.491455078125,
+                    "y": -3172.45458984375
+                  },
+                  "size": {
+                    "width": 200.521728515625,
+                    "height": 14.477294921875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 14px / Line-height: 17px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "13172:19000",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.23291015625,
+                "y": -3138.6591796875
+              },
+              "size": {
+                "width": 362.90869140625,
+                "height": 13.522705078125
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for body text, descriptive texts on mobile devices",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 14
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 17
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:22730",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -3085
+          },
+          "size": {
+            "width": 684,
+            "height": 50
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:22731",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -3085
+              },
+              "size": {
+                "width": 684,
+                "height": 17.022705078125
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:22732",
+                "name": "Body: Medium button",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.11865234375,
+                    "y": -3081.589599609375
+                  },
+                  "size": {
+                    "width": 141.510009765625,
+                    "height": 13.453125
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Body: Medium button ",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Medium",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:22733",
+                "name": "(Size: 14px / Line-height: 17px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2832.491455078125,
+                    "y": -3082.45458984375
+                  },
+                  "size": {
+                    "width": 200.521728515625,
+                    "height": 14.477294921875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 14px / Line-height: 17px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:22734",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.23291015625,
+                "y": -3048.6591796875
+              },
+              "size": {
+                "width": 148.385986328125,
+                "height": 10.838134765625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for button labels. ",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 14
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 17
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:25052",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -2995
+          },
+          "size": {
+            "width": 684,
+            "height": 50
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:25053",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -2995
+              },
+              "size": {
+                "width": 684,
+                "height": 17
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:25054",
+                "name": "Normal text 13",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.144775390625,
+                    "y": -2991.583740234375
+                  },
+                  "size": {
+                    "width": 87.43505859375,
+                    "height": 9.75
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Normal text 13",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 13
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:25055",
+                "name": "(Size: 13px / Line-height: 17px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2778.385009765625,
+                    "y": -2992.636474609375
+                  },
+                  "size": {
+                    "width": 186.13525390625,
+                    "height": 13.443359375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 13px / Line-height: 17px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 13
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:25056",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.144775390625,
+                "y": -2958.897705078125
+              },
+              "size": {
+                "width": 474.631591796875,
+                "height": 12.556884765625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for notifications text (pop up notifications, dropdown notifications, etc.).",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 13
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 17
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:25058",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -2905
+          },
+          "size": {
+            "width": 684,
+            "height": 50
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:25059",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -2905
+              },
+              "size": {
+                "width": 684,
+                "height": 17
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:25060",
+                "name": "Normal text 13 button",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2680.038818359375,
+                    "y": -2901.083740234375
+                  },
+                  "size": {
+                    "width": 132.836669921875,
+                    "height": 9.74072265625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Normal text 13 button",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Medium",
+                    "size": 13
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 16
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:25061",
+                "name": "(Size: 13px / Line-height: 16px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2823.385009765625,
+                    "y": -2902.636474609375
+                  },
+                  "size": {
+                    "width": 186.82080078125,
+                    "height": 13.443359375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 13px / Line-height: 16px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 13
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:25062",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.144775390625,
+                "y": -2868.897705078125
+              },
+              "size": {
+                "width": 474.631591796875,
+                "height": 12.556884765625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for notifications text (pop up notifications, dropdown notifications, etc.).",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 13
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 17
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:25064",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -2815
+          },
+          "size": {
+            "width": 684,
+            "height": 44
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:25065",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -2815
+              },
+              "size": {
+                "width": 684,
+                "height": 14
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:25066",
+                "name": "Table: Normal",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2679.57958984375,
+                    "y": -2812.727294921875
+                  },
+                  "size": {
+                    "width": 76.733154296875,
+                    "height": 8.880615234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Table: Normal",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:25067",
+                "name": "(Size: 12px / Line-height: 14px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2767.2783203125,
+                    "y": -2813.818115234375
+                  },
+                  "size": {
+                    "width": 172.285888671875,
+                    "height": 12.408935546875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 12px / Line-height: 14px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:25068",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.056884765625,
+                "y": -2783.136474609375
+              },
+              "size": {
+                "width": 631.621337890625,
+                "height": 11.727294921875
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for standard text in tables, providing clear and readable data and for badges and pills, and status bubbles.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 12
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 14
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:25080",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -2731
+          },
+          "size": {
+            "width": 684,
+            "height": 44
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:25081",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -2731
+              },
+              "size": {
+                "width": 684,
+                "height": 14
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:25082",
+                "name": "Table: Normal",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2679.477294921875,
+                    "y": -2728.727294921875
+                  },
+                  "size": {
+                    "width": 78.65087890625,
+                    "height": 8.859375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Table: Normal",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Semi Bold",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:25083",
+                "name": "(Size: 12px / Line-height: 14px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2768.2783203125,
+                    "y": -2729.818115234375
+                  },
+                  "size": {
+                    "width": 172.285888671875,
+                    "height": 12.408935546875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 12px / Line-height: 14px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:25084",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2680.056884765625,
+                "y": -2699.136474609375
+              },
+              "size": {
+                "width": 317.828369140625,
+                "height": 11.591064453125
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for important text in tables that requires emphasis.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 12
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 14
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10188:25087",
+        "name": "Font",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 2679,
+            "y": -2647
+          },
+          "size": {
+            "width": 684,
+            "height": 44
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 16,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "10188:25088",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": 2679,
+                "y": -2647
+              },
+              "size": {
+                "width": 684,
+                "height": 14
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "10188:25089",
+                "name": "Extra Small: Button",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2679.87890625,
+                    "y": -2644.109375
+                  },
+                  "size": {
+                    "width": 98.091796875,
+                    "height": 8.2421875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Extra Small: Button",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Medium",
+                    "size": 11
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 12
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "10188:25090",
+                "name": "(Size: 11px / Line-height: 12px)",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 2788.171875,
+                    "y": -2645
+                  },
+                  "size": {
+                    "width": 155.984375,
+                    "height": 11.375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 121,
+                          "g": 127,
+                          "b": 130,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "(Size: 11px / Line-height: 12px)",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 11
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10188:25091",
+            "name": "Dashboard",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 2679.96875,
+                "y": -2614.375
+              },
+              "size": {
+                "width": 291.3427734375,
+                "height": 10.625
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 121,
+                      "g": 127,
+                      "b": 130,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Used for important text in tables that requires emphasis.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 11
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 14
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
