@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "883:38986",
+    "name": "Device - Extra Large",
+    "type": "FRAME",
+    "properties": {
+      "position": {
+        "x": -870,
+        "y": 4015
+      },
+      "size": {
+        "width": 1370,
+        "height": 1000
+      },
+      "rotation": 0,
+      "styles": {
+        "fills": [
+          {
+            "type": "SOLID",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            },
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "effects": []
+      },
+      "layout": {
+        "direction": "VERTICAL",
+        "itemSpacing": 10,
+        "padding": {
+          "left": 24,
+          "top": 24,
+          "right": 24,
+          "bottom": 24
+        }
+      }
+    },
+    "children": [
+      {
+        "id": "883:39104",
+        "name": "Frame 3465150",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": -846,
+            "y": 4039
+          },
+          "size": {
+            "width": 1322,
+            "height": 768
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 24,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "883:39099",
+            "name": "Rectangle",
+            "type": "RECTANGLE",
+            "properties": {
+              "position": {
+                "x": -846,
+                "y": 4039
+              },
+              "size": {
+                "width": 1322,
+                "height": 152
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 228,
+                      "g": 229,
+                      "b": 230,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": []
+          },
+          {
+            "id": "883:39100",
+            "name": "Frame 3465147",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": -846,
+                "y": 4215
+              },
+              "size": {
+                "width": 1322,
+                "height": 152
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 24,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "883:39098",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -846,
+                    "y": 4215
+                  },
+                  "size": {
+                    "width": 649,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39097",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -173,
+                    "y": 4215
+                  },
+                  "size": {
+                    "width": 649,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "883:39101",
+            "name": "Frame 3465148",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": -846,
+                "y": 4391
+              },
+              "size": {
+                "width": 1322,
+                "height": 152
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 24,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "883:39096",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -846,
+                    "y": 4391
+                  },
+                  "size": {
+                    "width": 312.5,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39095",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -509.5,
+                    "y": 4391
+                  },
+                  "size": {
+                    "width": 312.5,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39094",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -173,
+                    "y": 4391
+                  },
+                  "size": {
+                    "width": 312.5,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39093",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": 163.5,
+                    "y": 4391
+                  },
+                  "size": {
+                    "width": 312.5,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "883:39102",
+            "name": "Frame 3465149",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": -846,
+                "y": 4567
+              },
+              "size": {
+                "width": 1322,
+                "height": 152
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 24,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "883:39092",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -846,
+                    "y": 4567
+                  },
+                  "size": {
+                    "width": 200.33331298828125,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39091",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -621.6666870117188,
+                    "y": 4567
+                  },
+                  "size": {
+                    "width": 200.33334350585938,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39090",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -397.33331298828125,
+                    "y": 4567
+                  },
+                  "size": {
+                    "width": 200.33334350585938,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39089",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -173,
+                    "y": 4567
+                  },
+                  "size": {
+                    "width": 200.3333282470703,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39088",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": 51.33331298828125,
+                    "y": 4567
+                  },
+                  "size": {
+                    "width": 200.33334350585938,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39087",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": 275.6666259765625,
+                    "y": 4567
+                  },
+                  "size": {
+                    "width": 200.33334350585938,
+                    "height": 152
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "883:39103",
+            "name": "Frame 1",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": -846,
+                "y": 4743
+              },
+              "size": {
+                "width": 1322,
+                "height": 64
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 24,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "883:39086",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -846,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16668701171875,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39085",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -733.8333129882812,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16668701171875,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39084",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -621.6666870117188,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16668701171875,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39083",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -509.5,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16665649414062,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39082",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -397.3333435058594,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16665649414062,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39081",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -285.16668701171875,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16665649414062,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39080",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -173,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16665649414062,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39079",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": -60.8333740234375,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16665649414062,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39078",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": 51.333251953125,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16665649414062,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39077",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": 163.4998779296875,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16665649414062,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39076",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": 275.66650390625,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16665649414062,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "883:39075",
+                "name": "Rectangle",
+                "type": "RECTANGLE",
+                "properties": {
+                  "position": {
+                    "x": 387.8331298828125,
+                    "y": 4743
+                  },
+                  "size": {
+                    "width": 88.16665649414062,
+                    "height": 64
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
