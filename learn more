@@ -1,0 +1,273 @@
+[
+  {
+    "id": "14501:11104",
+    "name": "Property 1=Default",
+    "type": "COMPONENT",
+    "properties": {
+      "position": {
+        "x": 20,
+        "y": 20
+      },
+      "size": {
+        "width": 106,
+        "height": 24
+      },
+      "rotation": 0,
+      "styles": {
+        "fills": [],
+        "strokes": [],
+        "effects": []
+      }
+    },
+    "children": [
+      {
+        "id": "14501:11105",
+        "name": "Link",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": 20,
+            "y": 26
+          },
+          "size": {
+            "width": 86,
+            "height": 12.204544067382812
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 255,
+                  "g": 255,
+                  "b": 255,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "HORIZONTAL",
+            "itemSpacing": 0,
+            "padding": {
+              "left": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "14501:11106",
+            "name": "Links/Blue alert",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": 21.40909194946289,
+                "y": 26.363636016845703
+              },
+              "size": {
+                "width": 83.37216186523438,
+                "height": 11.84090805053711
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 101,
+                      "g": 178,
+                      "b": 0,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Learn more",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 16
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 19
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "14501:11107",
+        "name": "Chevrons",
+        "type": "INSTANCE",
+        "properties": {
+          "componentInfo": {
+            "mainComponent": {
+              "id": "14501:11097",
+              "name": "Property 1=arrow_forward_ios",
+              "key": "9a5df299867b893a3566490b1260d4b8cad559fb"
+            }
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "I14501:11107;4056:7513",
+            "name": "Bounding box",
+            "type": "RECTANGLE",
+            "properties": {
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 217,
+                      "g": 217,
+                      "b": 217,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": []
+          },
+          {
+            "id": "I14501:11107;4056:7517",
+            "name": "arrow_forward_ios",
+            "type": "VECTOR",
+            "properties": {
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 101,
+                      "g": 178,
+                      "b": 0,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "14501:11108",
+        "name": "arrow_forward",
+        "type": "INSTANCE",
+        "properties": {
+          "componentInfo": {
+            "mainComponent": {
+              "id": "14501:11100",
+              "name": "arrow_forward",
+              "key": "6945e5912274772bc6d9f0c7de79041b68f3ba69"
+            }
+          },
+          "position": {
+            "x": 110,
+            "y": 24
+          },
+          "size": {
+            "width": 16,
+            "height": 16
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "I14501:11108;4233:16717",
+            "name": "Bounding box",
+            "type": "RECTANGLE",
+            "properties": {
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 217,
+                      "g": 217,
+                      "b": 217,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": []
+          },
+          {
+            "id": "I14501:11108;4233:16721",
+            "name": "arrow_forward",
+            "type": "VECTOR",
+            "properties": {
+              "position": {
+                "x": 112.66666412353516,
+                "y": 26.66666603088379
+              },
+              "size": {
+                "width": 10.666664123535156,
+                "height": 10.666666030883789
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 101,
+                      "g": 178,
+                      "b": 0,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
