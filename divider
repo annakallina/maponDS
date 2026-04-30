@@ -1,0 +1,102 @@
+[
+  {
+    "id": "3950:56792",
+    "name": "Divider",
+    "type": "COMPONENT_SET",
+    "properties": {
+      "position": {
+        "x": -408,
+        "y": 3540
+      },
+      "size": {
+        "width": 331,
+        "height": 74
+      },
+      "rotation": 0,
+      "styles": {
+        "fills": [],
+        "strokes": [
+          {
+            "type": "SOLID",
+            "color": {
+              "r": 151,
+              "g": 71,
+              "b": 255,
+              "a": 1
+            },
+            "opacity": 1
+          }
+        ],
+        "effects": []
+      }
+    },
+    "children": [
+      {
+        "id": "3950:56791",
+        "name": "Type=Vertical",
+        "type": "COMPONENT",
+        "properties": {
+          "position": {
+            "x": -392,
+            "y": 3556
+          },
+          "size": {
+            "width": 1,
+            "height": 42
+          },
+          "rotation": -1.5308806722812968e-22,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 228,
+                  "g": 229,
+                  "b": 230,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          }
+        },
+        "children": []
+      },
+      {
+        "id": "1555:30626",
+        "name": "Type=Horizontal",
+        "type": "COMPONENT",
+        "properties": {
+          "position": {
+            "x": -361,
+            "y": 3576.5
+          },
+          "size": {
+            "width": 268,
+            "height": 1
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 228,
+                  "g": 229,
+                  "b": 230,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          }
+        },
+        "children": []
+      }
+    ]
+  }
+]
