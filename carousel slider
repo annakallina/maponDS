@@ -1,0 +1,1753 @@
+[
+  {
+    "id": "14042:654",
+    "name": "Layout ",
+    "type": "FRAME",
+    "properties": {
+      "position": {
+        "x": 392.5,
+        "y": 74
+      },
+      "size": {
+        "width": 128,
+        "height": 290
+      },
+      "rotation": 0,
+      "styles": {
+        "fills": [],
+        "strokes": [],
+        "effects": []
+      },
+      "layout": {
+        "direction": "VERTICAL",
+        "itemSpacing": 34,
+        "padding": {
+          "left": 0,
+          "top": 60,
+          "right": 0,
+          "bottom": 30
+        }
+      }
+    },
+    "children": [
+      {
+        "id": "14042:719",
+        "name": "Dot",
+        "type": "COMPONENT_SET",
+        "properties": {
+          "position": {
+            "x": 392.5,
+            "y": 134
+          },
+          "size": {
+            "width": 128,
+            "height": 30
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 151,
+                  "g": 71,
+                  "b": 255,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "14042:718",
+            "name": "State=Active, Size=Small",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 400.5,
+                "y": 145
+              },
+              "size": {
+                "width": 8,
+                "height": 8
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "14042:715",
+                "name": "Ellipse 1",
+                "type": "ELLIPSE",
+                "properties": {
+                  "position": {
+                    "x": 400.5,
+                    "y": 145
+                  },
+                  "size": {
+                    "width": 8,
+                    "height": 8
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 187,
+                          "g": 190,
+                          "b": 192,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "14042:717",
+            "name": "State=Default, Size=Small",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 416.5,
+                "y": 145
+              },
+              "size": {
+                "width": 8,
+                "height": 8
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "14042:716",
+                "name": "Ellipse 2",
+                "type": "ELLIPSE",
+                "properties": {
+                  "position": {
+                    "x": 416.5,
+                    "y": 145
+                  },
+                  "size": {
+                    "width": 8,
+                    "height": 8
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "15165:8055",
+            "name": "State=Active, Size=Middle",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 432.5,
+                "y": 143
+              },
+              "size": {
+                "width": 12,
+                "height": 12
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "15165:8056",
+                "name": "Ellipse 1",
+                "type": "ELLIPSE",
+                "properties": {
+                  "position": {
+                    "x": 432.5,
+                    "y": 143
+                  },
+                  "size": {
+                    "width": 12,
+                    "height": 12
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 187,
+                          "g": 190,
+                          "b": 192,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "15165:8057",
+            "name": "State=Default, Size=Middle",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 452.5,
+                "y": 143
+              },
+              "size": {
+                "width": 12,
+                "height": 12
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "15165:8058",
+                "name": "Ellipse 1",
+                "type": "ELLIPSE",
+                "properties": {
+                  "position": {
+                    "x": 452.5,
+                    "y": 143
+                  },
+                  "size": {
+                    "width": 12,
+                    "height": 12
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "14042:768",
+            "name": "State=Active, Size=Large",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 472.5,
+                "y": 141
+              },
+              "size": {
+                "width": 16,
+                "height": 16
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "14042:769",
+                "name": "Ellipse 1",
+                "type": "ELLIPSE",
+                "properties": {
+                  "position": {
+                    "x": 472.5,
+                    "y": 141
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 16
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 187,
+                          "g": 190,
+                          "b": 192,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "14042:770",
+            "name": "State=Default, Size=Large",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 496.5,
+                "y": 141
+              },
+              "size": {
+                "width": 16,
+                "height": 16
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "14042:771",
+                "name": "Ellipse 1",
+                "type": "ELLIPSE",
+                "properties": {
+                  "position": {
+                    "x": 496.5,
+                    "y": 141
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 16
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 228,
+                          "g": 229,
+                          "b": 230,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14042:732",
+        "name": "Slider",
+        "type": "COMPONENT_SET",
+        "properties": {
+          "position": {
+            "x": 410,
+            "y": 198
+          },
+          "size": {
+            "width": 93,
+            "height": 136
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 151,
+                  "g": 71,
+                  "b": 255,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "14042:731",
+            "name": "Type=3, Size=Small",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 418,
+                "y": 206
+              },
+              "size": {
+                "width": 32,
+                "height": 8
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "14042:722",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:718",
+                      "name": "State=Active, Size=Small",
+                      "key": "bc59fcc0c7c0f5dcb84dffa36f672f8c63148fe8"
+                    }
+                  },
+                  "position": {
+                    "x": 418,
+                    "y": 206
+                  },
+                  "size": {
+                    "width": 8,
+                    "height": 8
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:722;14042:715",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 418,
+                        "y": 206
+                      },
+                      "size": {
+                        "width": 8,
+                        "height": 8
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 187,
+                              "g": 190,
+                              "b": 192,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14042:728",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:717",
+                      "name": "State=Default, Size=Small",
+                      "key": "10406ec21b0464ae155df9931dd13d572c3e4d01"
+                    }
+                  },
+                  "position": {
+                    "x": 430,
+                    "y": 206
+                  },
+                  "size": {
+                    "width": 8,
+                    "height": 8
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:728;14042:716",
+                    "name": "Ellipse 2",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 430,
+                        "y": 206
+                      },
+                      "size": {
+                        "width": 8,
+                        "height": 8
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 228,
+                              "g": 229,
+                              "b": 230,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14042:725",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:717",
+                      "name": "State=Default, Size=Small",
+                      "key": "10406ec21b0464ae155df9931dd13d572c3e4d01"
+                    }
+                  },
+                  "position": {
+                    "x": 442,
+                    "y": 206
+                  },
+                  "size": {
+                    "width": 8,
+                    "height": 8
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:725;14042:716",
+                    "name": "Ellipse 2",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 442,
+                        "y": 206
+                      },
+                      "size": {
+                        "width": 8,
+                        "height": 8
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 228,
+                              "g": 229,
+                              "b": 230,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "14042:740",
+            "name": "Type=2, Size=Small",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 418,
+                "y": 222
+              },
+              "size": {
+                "width": 20,
+                "height": 8
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "14042:741",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:718",
+                      "name": "State=Active, Size=Small",
+                      "key": "bc59fcc0c7c0f5dcb84dffa36f672f8c63148fe8"
+                    }
+                  },
+                  "position": {
+                    "x": 418,
+                    "y": 222
+                  },
+                  "size": {
+                    "width": 8,
+                    "height": 8
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:741;14042:715",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 418,
+                        "y": 222
+                      },
+                      "size": {
+                        "width": 8,
+                        "height": 8
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 187,
+                              "g": 190,
+                              "b": 192,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14042:742",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:717",
+                      "name": "State=Default, Size=Small",
+                      "key": "10406ec21b0464ae155df9931dd13d572c3e4d01"
+                    }
+                  },
+                  "position": {
+                    "x": 430,
+                    "y": 222
+                  },
+                  "size": {
+                    "width": 8,
+                    "height": 8
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:742;14042:716",
+                    "name": "Ellipse 2",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 430,
+                        "y": 222
+                      },
+                      "size": {
+                        "width": 8,
+                        "height": 8
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 228,
+                              "g": 229,
+                              "b": 230,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "14042:775",
+            "name": "Type=2, Size=Middle",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 418,
+                "y": 262
+              },
+              "size": {
+                "width": 32,
+                "height": 12
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "14042:776",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "15165:8055",
+                      "name": "State=Active, Size=Middle",
+                      "key": "9fb3c33944f4919baef73e4bc6d1d5fc8516cad1"
+                    }
+                  },
+                  "position": {
+                    "x": 418,
+                    "y": 262
+                  },
+                  "size": {
+                    "width": 12,
+                    "height": 12
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:776;15165:8056",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 418,
+                        "y": 262
+                      },
+                      "size": {
+                        "width": 12,
+                        "height": 12
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 187,
+                              "g": 190,
+                              "b": 192,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14042:777",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "15165:8057",
+                      "name": "State=Default, Size=Middle",
+                      "key": "8bcb6e04990a54c0ddb3de002b323b18a9d777f5"
+                    }
+                  },
+                  "position": {
+                    "x": 438,
+                    "y": 262
+                  },
+                  "size": {
+                    "width": 12,
+                    "height": 12
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:777;15165:8058",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 438,
+                        "y": 262
+                      },
+                      "size": {
+                        "width": 12,
+                        "height": 12
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 228,
+                              "g": 229,
+                              "b": 230,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "15165:8063",
+            "name": "Type=2, Size=Large",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 418,
+                "y": 286
+              },
+              "size": {
+                "width": 40,
+                "height": 16
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "15165:8064",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:768",
+                      "name": "State=Active, Size=Large",
+                      "key": "a65a579ef142a67b627a67f06e05c18e7139cb97"
+                    }
+                  },
+                  "position": {
+                    "x": 418,
+                    "y": 286
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 16
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I15165:8064;14042:769",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 418,
+                        "y": 286
+                      },
+                      "size": {
+                        "width": 16,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 187,
+                              "g": 190,
+                              "b": 192,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15165:8065",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:770",
+                      "name": "State=Default, Size=Large",
+                      "key": "7d6bbb3a1364185ba4479b9d216cc4482a9214fe"
+                    }
+                  },
+                  "position": {
+                    "x": 442,
+                    "y": 286
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 16
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I15165:8065;14042:771",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 442,
+                        "y": 286
+                      },
+                      "size": {
+                        "width": 16,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 228,
+                              "g": 229,
+                              "b": 230,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "14042:761",
+            "name": "Type=3, Size=Middle",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 418,
+                "y": 238
+              },
+              "size": {
+                "width": 52,
+                "height": 12
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "14042:762",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "15165:8055",
+                      "name": "State=Active, Size=Middle",
+                      "key": "9fb3c33944f4919baef73e4bc6d1d5fc8516cad1"
+                    }
+                  },
+                  "position": {
+                    "x": 418,
+                    "y": 238
+                  },
+                  "size": {
+                    "width": 12,
+                    "height": 12
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:762;15165:8056",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 418,
+                        "y": 238
+                      },
+                      "size": {
+                        "width": 12,
+                        "height": 12
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 187,
+                              "g": 190,
+                              "b": 192,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14042:763",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "15165:8057",
+                      "name": "State=Default, Size=Middle",
+                      "key": "8bcb6e04990a54c0ddb3de002b323b18a9d777f5"
+                    }
+                  },
+                  "position": {
+                    "x": 438,
+                    "y": 238
+                  },
+                  "size": {
+                    "width": 12,
+                    "height": 12
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:763;15165:8058",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 438,
+                        "y": 238
+                      },
+                      "size": {
+                        "width": 12,
+                        "height": 12
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 228,
+                              "g": 229,
+                              "b": 230,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14042:764",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "15165:8057",
+                      "name": "State=Default, Size=Middle",
+                      "key": "8bcb6e04990a54c0ddb3de002b323b18a9d777f5"
+                    }
+                  },
+                  "position": {
+                    "x": 458,
+                    "y": 238
+                  },
+                  "size": {
+                    "width": 12,
+                    "height": 12
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I14042:764;15165:8058",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 458,
+                        "y": 238
+                      },
+                      "size": {
+                        "width": 12,
+                        "height": 12
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 228,
+                              "g": 229,
+                              "b": 230,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "15165:8059",
+            "name": "Type=3, Size=Large",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 418,
+                "y": 310
+              },
+              "size": {
+                "width": 64,
+                "height": 16
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "15165:8060",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:768",
+                      "name": "State=Active, Size=Large",
+                      "key": "a65a579ef142a67b627a67f06e05c18e7139cb97"
+                    }
+                  },
+                  "position": {
+                    "x": 418,
+                    "y": 310
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 16
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I15165:8060;14042:769",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 418,
+                        "y": 310
+                      },
+                      "size": {
+                        "width": 16,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 187,
+                              "g": 190,
+                              "b": 192,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15165:8061",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:770",
+                      "name": "State=Default, Size=Large",
+                      "key": "7d6bbb3a1364185ba4479b9d216cc4482a9214fe"
+                    }
+                  },
+                  "position": {
+                    "x": 442,
+                    "y": 310
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 16
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I15165:8061;14042:771",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 442,
+                        "y": 310
+                      },
+                      "size": {
+                        "width": 16,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 228,
+                              "g": 229,
+                              "b": 230,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15165:8062",
+                "name": "Dot",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "14042:770",
+                      "name": "State=Default, Size=Large",
+                      "key": "7d6bbb3a1364185ba4479b9d216cc4482a9214fe"
+                    }
+                  },
+                  "position": {
+                    "x": 466,
+                    "y": 310
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 16
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I15165:8062;14042:771",
+                    "name": "Ellipse 1",
+                    "type": "ELLIPSE",
+                    "properties": {
+                      "position": {
+                        "x": 466,
+                        "y": 310
+                      },
+                      "size": {
+                        "width": 16,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 228,
+                              "g": 229,
+                              "b": 230,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
