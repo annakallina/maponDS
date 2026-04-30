@@ -1,0 +1,1526 @@
+[
+  {
+    "id": "9207:180",
+    "name": "Frame 3465142",
+    "type": "FRAME",
+    "properties": {
+      "position": {
+        "x": -2117,
+        "y": 1000
+      },
+      "size": {
+        "width": 1264,
+        "height": 554.0001220703125
+      },
+      "rotation": 0,
+      "styles": {
+        "fills": [],
+        "strokes": [],
+        "effects": []
+      },
+      "layout": {
+        "direction": "VERTICAL",
+        "itemSpacing": 10,
+        "padding": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      }
+    },
+    "children": [
+      {
+        "id": "771:4687",
+        "name": "Date picker assets",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": -2117,
+            "y": 1000
+          },
+          "size": {
+            "width": 1264,
+            "height": 554.0001220703125
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 255,
+                  "g": 255,
+                  "b": 255,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 0,
+            "padding": {
+              "left": 0,
+              "top": 64,
+              "right": 0,
+              "bottom": 64
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "2172:4798",
+            "name": ".Component description assets",
+            "type": "INSTANCE",
+            "properties": {
+              "componentInfo": {
+                "mainComponent": {
+                  "id": "2172:4747",
+                  "name": ".Component description assets/Title with description",
+                  "key": "27a6a125d3f46030583b68db6139f4b24a612e72"
+                }
+              },
+              "position": {
+                "x": -2117,
+                "y": 1064
+              },
+              "size": {
+                "width": 899,
+                "height": 80
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "I2172:4798;5070:39537",
+                "name": "Title",
+                "type": "FRAME",
+                "properties": {
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "layout": {
+                    "direction": "HORIZONTAL",
+                    "itemSpacing": 20,
+                    "padding": {
+                      "left": 0,
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0
+                    }
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I2172:4798;2172:4745",
+                    "name": "Title",
+                    "type": "TEXT",
+                    "properties": {
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 56,
+                              "g": 64,
+                              "b": 69,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Radio buttons",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Semi Bold",
+                        "size": 64
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 92
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  },
+                  {
+                    "id": "I2172:4798;5070:40151",
+                    "name": "Text badge",
+                    "type": "INSTANCE",
+                    "properties": {
+                      "componentInfo": {
+                        "mainComponent": {
+                          "id": "310:29021",
+                          "name": "Color=Green, Type=Rectangle",
+                          "key": "1b7de75592171bc679cb044eefcf39f17f0d7a54"
+                        }
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 101,
+                              "g": 178,
+                              "b": 0,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I2172:4798;5070:40151;16158:86092",
+                        "name": "Time/Clock",
+                        "type": "INSTANCE",
+                        "properties": {
+                          "componentInfo": {
+                            "mainComponent": {
+                              "id": "19:9564",
+                              "name": "Type=ClockOutlined",
+                              "key": "a2185218ca71cdfb0eff745eba7b09be53f645b1"
+                            }
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [],
+                            "strokes": [],
+                            "effects": []
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": "I2172:4798;5070:40151;16158:86092;157:13461",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "properties": {
+                              "rotation": 0,
+                              "styles": {
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 56,
+                                      "g": 64,
+                                      "b": 69,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "strokes": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 151,
+                                      "g": 151,
+                                      "b": 151,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "effects": []
+                              }
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I2172:4798;5070:40151;310:29022",
+                        "name": "Low",
+                        "type": "TEXT",
+                        "properties": {
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 255,
+                                  "g": 255,
+                                  "b": 255,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          },
+                          "text": "New",
+                          "font": {
+                            "family": "Inter",
+                            "style": "Regular",
+                            "size": 16
+                          },
+                          "lineHeight": {
+                            "unit": "PIXELS",
+                            "value": 19
+                          },
+                          "alignment": "CENTER"
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "I2172:4798;2172:4746",
+                "name": "Text",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -2051.977294921875,
+                    "y": 1067.772705078125
+                  },
+                  "size": {
+                    "width": 672.890625,
+                    "height": 43.5455322265625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Use radio buttons when you have a group of mutually exclusive choices and only one selection from the group is allowed.",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 20
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 24
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "I2172:4798;6113:32422",
+                "name": ".Component description assets",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "6113:31184",
+                      "name": "Type=Seperator",
+                      "key": "b1417395b7dc4791e97cdf3fa7456bbece0d0700"
+                    }
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I2172:4798;6113:32422;6113:31183",
+                    "name": "Divider",
+                    "type": "LINE",
+                    "properties": {
+                      "rotation": 0.000005099874601988761,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 187,
+                              "g": 190,
+                              "b": 192,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "2878:31931",
+            "name": "Frame 3465141",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": -1752.5,
+                "y": 1144
+              },
+              "size": {
+                "width": 170,
+                "height": 160
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 24,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "154:12299",
+                "name": "Radio",
+                "type": "COMPONENT_SET",
+                "properties": {
+                  "position": {
+                    "x": -1752.5,
+                    "y": 1144
+                  },
+                  "size": {
+                    "width": 63,
+                    "height": 160
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 187,
+                          "g": 107,
+                          "b": 217,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "154:12291",
+                    "name": "Size=16px, State=Active",
+                    "type": "COMPONENT",
+                    "properties": {
+                      "position": {
+                        "x": -1729,
+                        "y": 1168
+                      },
+                      "size": {
+                        "width": 16,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "154:12266",
+                        "name": "Rectangle 12",
+                        "type": "RECTANGLE",
+                        "properties": {
+                          "position": {
+                            "x": -1729,
+                            "y": 1168
+                          },
+                          "size": {
+                            "width": 16,
+                            "height": 16
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 152,
+                                  "g": 202,
+                                  "b": 2,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 101,
+                                  "g": 178,
+                                  "b": 0,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "154:12267",
+                        "name": "Rectangle 12",
+                        "type": "RECTANGLE",
+                        "properties": {
+                          "position": {
+                            "x": -1724,
+                            "y": 1173
+                          },
+                          "size": {
+                            "width": 6,
+                            "height": 6
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 255,
+                                  "g": 255,
+                                  "b": 255,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 101,
+                                  "g": 178,
+                                  "b": 0,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "4406:186",
+                    "name": "Size=16px, State=Active Locked",
+                    "type": "COMPONENT",
+                    "properties": {
+                      "position": {
+                        "x": -1729,
+                        "y": 1200
+                      },
+                      "size": {
+                        "width": 16,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "4406:187",
+                        "name": "Rectangle 12",
+                        "type": "RECTANGLE",
+                        "properties": {
+                          "position": {
+                            "x": -1729,
+                            "y": 1200
+                          },
+                          "size": {
+                            "width": 16,
+                            "height": 16
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 152,
+                                  "g": 202,
+                                  "b": 2,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 101,
+                                  "g": 178,
+                                  "b": 0,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "4406:188",
+                        "name": "Rectangle 12",
+                        "type": "RECTANGLE",
+                        "properties": {
+                          "position": {
+                            "x": -1724,
+                            "y": 1205
+                          },
+                          "size": {
+                            "width": 6,
+                            "height": 6
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 255,
+                                  "g": 255,
+                                  "b": 255,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 101,
+                                  "g": 178,
+                                  "b": 0,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "154:12314",
+                    "name": "Size=16px, State=Default",
+                    "type": "COMPONENT",
+                    "properties": {
+                      "position": {
+                        "x": -1729,
+                        "y": 1232
+                      },
+                      "size": {
+                        "width": 16,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "154:12315",
+                        "name": "Rectangle 12",
+                        "type": "RECTANGLE",
+                        "properties": {
+                          "position": {
+                            "x": -1729,
+                            "y": 1232
+                          },
+                          "size": {
+                            "width": 16,
+                            "height": 16
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 255,
+                                  "g": 255,
+                                  "b": 255,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 187,
+                                  "g": 190,
+                                  "b": 192,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "4406:734",
+                    "name": "Size=16px, State=Disabled",
+                    "type": "COMPONENT",
+                    "properties": {
+                      "position": {
+                        "x": -1729,
+                        "y": 1264
+                      },
+                      "size": {
+                        "width": 16,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "4406:735",
+                        "name": "Rectangle 12",
+                        "type": "RECTANGLE",
+                        "properties": {
+                          "position": {
+                            "x": -1729,
+                            "y": 1264
+                          },
+                          "size": {
+                            "width": 16,
+                            "height": 16
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 228,
+                                  "g": 229,
+                                  "b": 230,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 228,
+                                  "g": 229,
+                                  "b": 230,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "8912:7160",
+                "name": "Radio 16px: One Line Text",
+                "type": "COMPONENT_SET",
+                "properties": {
+                  "position": {
+                    "x": -1665.5,
+                    "y": 1144
+                  },
+                  "size": {
+                    "width": 83,
+                    "height": 85
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 151,
+                          "g": 71,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "160:14441",
+                    "name": "Label size=Default 16px",
+                    "type": "COMPONENT",
+                    "properties": {
+                      "position": {
+                        "x": -1649.5,
+                        "y": 1160
+                      },
+                      "size": {
+                        "width": 51,
+                        "height": 17
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "160:14442",
+                        "name": "Radio",
+                        "type": "INSTANCE",
+                        "properties": {
+                          "componentInfo": {
+                            "mainComponent": {
+                              "id": "154:12314",
+                              "name": "Size=16px, State=Default",
+                              "key": "cc688c94124dd103f555f3fa47eb87b65c8e5f2a"
+                            }
+                          },
+                          "position": {
+                            "x": -1649.5,
+                            "y": 1160.5
+                          },
+                          "size": {
+                            "width": 16,
+                            "height": 16
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 255,
+                                  "g": 255,
+                                  "b": 255,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": "I160:14442;154:12315",
+                            "name": "Rectangle 12",
+                            "type": "RECTANGLE",
+                            "properties": {
+                              "position": {
+                                "x": -1649.5,
+                                "y": 1160.5
+                              },
+                              "size": {
+                                "width": 16,
+                                "height": 16
+                              },
+                              "rotation": 0,
+                              "styles": {
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "strokes": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 187,
+                                      "g": 190,
+                                      "b": 192,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "effects": []
+                              }
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "160:14443",
+                        "name": "Enable car profile a",
+                        "type": "TEXT",
+                        "properties": {
+                          "position": {
+                            "x": -1626.8238525390625,
+                            "y": 1163.8182373046875
+                          },
+                          "size": {
+                            "width": 27.23681640625,
+                            "height": 10.3408203125
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 56,
+                                  "g": 64,
+                                  "b": 69,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          },
+                          "text": "Text",
+                          "font": {
+                            "family": "Inter",
+                            "style": "Regular",
+                            "size": 14
+                          },
+                          "lineHeight": {
+                            "unit": "PIXELS",
+                            "value": 17
+                          },
+                          "alignment": "LEFT"
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "3106:10356",
+                        "name": "Actions and Controls/Info",
+                        "type": "INSTANCE",
+                        "properties": {
+                          "componentInfo": {
+                            "mainComponent": {
+                              "id": "18:9521",
+                              "name": "Actions and Controls/Info",
+                              "key": "56db5013bf4d183c640e38daff043e96d405e850"
+                            }
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [],
+                            "strokes": [],
+                            "effects": []
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": "I3106:10356;52:1234",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "properties": {
+                              "rotation": 0,
+                              "styles": {
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 121,
+                                      "g": 127,
+                                      "b": 130,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "strokes": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 151,
+                                      "g": 151,
+                                      "b": 151,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "effects": []
+                              }
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "8912:7158",
+                    "name": "Label size=14px",
+                    "type": "COMPONENT",
+                    "properties": {
+                      "position": {
+                        "x": -1649.5,
+                        "y": 1197
+                      },
+                      "size": {
+                        "width": 47,
+                        "height": 16
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "8912:7153",
+                        "name": "Radio",
+                        "type": "INSTANCE",
+                        "properties": {
+                          "componentInfo": {
+                            "mainComponent": {
+                              "id": "154:12314",
+                              "name": "Size=16px, State=Default",
+                              "key": "cc688c94124dd103f555f3fa47eb87b65c8e5f2a"
+                            }
+                          },
+                          "position": {
+                            "x": -1649.5,
+                            "y": 1197
+                          },
+                          "size": {
+                            "width": 16,
+                            "height": 16
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 255,
+                                  "g": 255,
+                                  "b": 255,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": "I8912:7153;154:12315",
+                            "name": "Rectangle 12",
+                            "type": "RECTANGLE",
+                            "properties": {
+                              "position": {
+                                "x": -1649.5,
+                                "y": 1197
+                              },
+                              "size": {
+                                "width": 16,
+                                "height": 16
+                              },
+                              "rotation": 0,
+                              "styles": {
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "strokes": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 187,
+                                      "g": 190,
+                                      "b": 192,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "effects": []
+                              }
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "8912:7154",
+                        "name": "Enable car profile a",
+                        "type": "TEXT",
+                        "properties": {
+                          "position": {
+                            "x": -1626.92041015625,
+                            "y": 1200.272705078125
+                          },
+                          "size": {
+                            "width": 23.3458251953125,
+                            "height": 8.8636474609375
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 56,
+                                  "g": 64,
+                                  "b": 69,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          },
+                          "text": "Text",
+                          "font": {
+                            "family": "Inter",
+                            "style": "Regular",
+                            "size": 12
+                          },
+                          "lineHeight": {
+                            "unit": "PIXELS",
+                            "value": 14
+                          },
+                          "alignment": "LEFT"
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "8912:7155",
+                        "name": "Actions and Controls/Info",
+                        "type": "INSTANCE",
+                        "properties": {
+                          "componentInfo": {
+                            "mainComponent": {
+                              "id": "18:9521",
+                              "name": "Actions and Controls/Info",
+                              "key": "56db5013bf4d183c640e38daff043e96d405e850"
+                            }
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [],
+                            "strokes": [],
+                            "effects": []
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": "I8912:7155;52:1234",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "properties": {
+                              "rotation": 0,
+                              "styles": {
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 121,
+                                      "g": 127,
+                                      "b": 130,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "strokes": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 151,
+                                      "g": 151,
+                                      "b": 151,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "effects": []
+                              }
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "771:4715",
+            "name": "Frame 3465137",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": -2117,
+                "y": 1304
+              },
+              "size": {
+                "width": 1264,
+                "height": 186.0001220703125
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "VERTICAL",
+                "itemSpacing": 0,
+                "padding": {
+                  "left": 64,
+                  "top": 0,
+                  "right": 64,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "771:4716",
+                "name": ".Seperator",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "25:2453",
+                      "name": ".Seperator",
+                      "key": "aa57e9a6abbcc4b8d0d0e0416367e828cd1ba765"
+                    }
+                  },
+                  "position": {
+                    "x": -2053,
+                    "y": 1304
+                  },
+                  "size": {
+                    "width": 771,
+                    "height": 128.0001220703125
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I771:4716;71172:257086",
+                    "name": "Divider",
+                    "type": "LINE",
+                    "properties": {
+                      "position": {
+                        "x": -2053,
+                        "y": 1367
+                      },
+                      "size": {
+                        "width": 771,
+                        "height": 1.0001220703125
+                      },
+                      "rotation": 0.000005099874601988761,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 187,
+                              "g": 190,
+                              "b": 192,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "771:4717",
+                "name": "Frame 3465136",
+                "type": "FRAME",
+                "properties": {
+                  "position": {
+                    "x": -2053,
+                    "y": 1432.0001220703125
+                  },
+                  "size": {
+                    "width": 1200,
+                    "height": 58
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "layout": {
+                    "direction": "VERTICAL",
+                    "itemSpacing": 0,
+                    "padding": {
+                      "left": 0,
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0
+                    }
+                  }
+                },
+                "children": [
+                  {
+                    "id": "771:4718",
+                    "name": "Title",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -2051.5654296875,
+                        "y": 1436.255859375
+                      },
+                      "size": {
+                        "width": 127.205322265625,
+                        "height": 19.0625
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Found a bug?",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Semi Bold",
+                        "size": 20
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 24
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  },
+                  {
+                    "id": "771:4719",
+                    "name": ".Spacer",
+                    "type": "FRAME",
+                    "properties": {
+                      "position": {
+                        "x": -2053,
+                        "y": 1456.0001220703125
+                      },
+                      "size": {
+                        "width": 1200,
+                        "height": 12
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "id": "771:4720",
+                    "name": "Description",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -2052.164794921875,
+                        "y": 1471.6790771484375
+                      },
+                      "size": {
+                        "width": 174.2940673828125,
+                        "height": 13.34375
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Create a comment and tag ",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 14
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 17
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
