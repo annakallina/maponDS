@@ -1,0 +1,3038 @@
+[
+  {
+    "id": "771:5832",
+    "name": "Links",
+    "type": "FRAME",
+    "properties": {
+      "position": {
+        "x": -2117,
+        "y": 923
+      },
+      "size": {
+        "width": 1200,
+        "height": 964.000244140625
+      },
+      "rotation": 0,
+      "styles": {
+        "fills": [
+          {
+            "type": "SOLID",
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            },
+            "opacity": 1
+          }
+        ],
+        "strokes": [],
+        "effects": []
+      },
+      "layout": {
+        "direction": "VERTICAL",
+        "itemSpacing": 0,
+        "padding": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      }
+    },
+    "children": [
+      {
+        "id": "771:5833",
+        "name": ".Component title",
+        "type": "INSTANCE",
+        "properties": {
+          "componentInfo": {
+            "mainComponent": {
+              "id": "41:44444",
+              "name": "Type=Default",
+              "key": "ab929f7195053a06ac346de87b8c72049367e77c"
+            }
+          },
+          "position": {
+            "x": -2117,
+            "y": 923
+          },
+          "size": {
+            "width": 1200,
+            "height": 74
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "I771:5833;4893:20860",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": -2117,
+                "y": 923
+              },
+              "size": {
+                "width": 1200,
+                "height": 74
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 12,
+                "padding": {
+                  "left": 56,
+                  "top": 20,
+                  "right": 0,
+                  "bottom": 20
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "I771:5833;4893:21047",
+                "name": "💠",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -2061,
+                    "y": 946.1799926757812
+                  },
+                  "size": {
+                    "width": 24,
+                    "height": 24
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 0,
+                          "g": 0,
+                          "b": 0,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "💠 ",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Semi Bold",
+                    "size": 24
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 29
+                  },
+                  "alignment": "CENTER"
+                },
+                "children": []
+              },
+              {
+                "id": "I771:5833;41:44418",
+                "name": "System buttons",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -2022.991455078125,
+                    "y": 948.6519775390625
+                  },
+                  "size": {
+                    "width": 68.404052734375,
+                    "height": 21.64630126953125
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Links",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Semi Bold",
+                    "size": 28
+                  },
+                  "lineHeight": {
+                    "unit": "AUTO"
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "I771:5833;5805:66235",
+                "name": "Bagdes",
+                "type": "FRAME",
+                "properties": {
+                  "position": {
+                    "x": -1941,
+                    "y": 944
+                  },
+                  "size": {
+                    "width": 75,
+                    "height": 32
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "layout": {
+                    "direction": "HORIZONTAL",
+                    "itemSpacing": 8,
+                    "padding": {
+                      "left": 16,
+                      "top": 0,
+                      "right": 0,
+                      "bottom": 0
+                    }
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I771:5833;4922:4385",
+                    "name": "Text badge",
+                    "type": "INSTANCE",
+                    "properties": {
+                      "componentInfo": {
+                        "mainComponent": {
+                          "id": "2082:24",
+                          "name": "Color=Orange, Type=Rectangle",
+                          "key": "2bba539d4ec1c4a89a5e87737bc6a8f24b9db369"
+                        }
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 255,
+                              "g": 179,
+                              "b": 0,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I771:5833;4922:4385;16158:86061",
+                        "name": "Time/Clock",
+                        "type": "INSTANCE",
+                        "properties": {
+                          "componentInfo": {
+                            "mainComponent": {
+                              "id": "19:9564",
+                              "name": "Type=ClockOutlined",
+                              "key": "a2185218ca71cdfb0eff745eba7b09be53f645b1"
+                            }
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [],
+                            "strokes": [],
+                            "effects": []
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": "I771:5833;4922:4385;16158:86061;157:13461",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "properties": {
+                              "rotation": 0,
+                              "styles": {
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 56,
+                                      "g": 64,
+                                      "b": 69,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "strokes": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 151,
+                                      "g": 151,
+                                      "b": 151,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "effects": []
+                              }
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I771:5833;4922:4385;2082:25",
+                        "name": "Low",
+                        "type": "TEXT",
+                        "properties": {
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 56,
+                                  "g": 64,
+                                  "b": 69,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          },
+                          "text": "Refactored",
+                          "font": {
+                            "family": "Inter",
+                            "style": "Regular",
+                            "size": 20
+                          },
+                          "lineHeight": {
+                            "unit": "AUTO"
+                          },
+                          "alignment": "CENTER"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I771:5833;4922:3858",
+                    "name": "Text badge",
+                    "type": "INSTANCE",
+                    "properties": {
+                      "componentInfo": {
+                        "mainComponent": {
+                          "id": "310:29021",
+                          "name": "Color=Green, Type=Rectangle",
+                          "key": "1b7de75592171bc679cb044eefcf39f17f0d7a54"
+                        }
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 101,
+                              "g": 178,
+                              "b": 0,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I771:5833;4922:3858;16158:86092",
+                        "name": "Time/Clock",
+                        "type": "INSTANCE",
+                        "properties": {
+                          "componentInfo": {
+                            "mainComponent": {
+                              "id": "19:9564",
+                              "name": "Type=ClockOutlined",
+                              "key": "a2185218ca71cdfb0eff745eba7b09be53f645b1"
+                            }
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [],
+                            "strokes": [],
+                            "effects": []
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": "I771:5833;4922:3858;16158:86092;157:13461",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "properties": {
+                              "rotation": 0,
+                              "styles": {
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 56,
+                                      "g": 64,
+                                      "b": 69,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "strokes": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 151,
+                                      "g": 151,
+                                      "b": 151,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "effects": []
+                              }
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I771:5833;4922:3858;310:29022",
+                        "name": "Low",
+                        "type": "TEXT",
+                        "properties": {
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 255,
+                                  "g": 255,
+                                  "b": 255,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          },
+                          "text": "New",
+                          "font": {
+                            "family": "Inter",
+                            "style": "Regular",
+                            "size": 20
+                          },
+                          "lineHeight": {
+                            "unit": "AUTO"
+                          },
+                          "alignment": "CENTER"
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "I771:5833;5070:36656",
+            "name": "Description",
+            "type": "FRAME",
+            "properties": {
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "VERTICAL",
+                "itemSpacing": 8,
+                "padding": {
+                  "left": 0,
+                  "top": 48,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "I771:5833;5070:35846",
+                "name": ".Component description assets",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "2172:4747",
+                      "name": ".Component description assets/Title with description",
+                      "key": "27a6a125d3f46030583b68db6139f4b24a612e72"
+                    }
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I771:5833;5070:35846;5070:39537",
+                    "name": "Title",
+                    "type": "FRAME",
+                    "properties": {
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "layout": {
+                        "direction": "HORIZONTAL",
+                        "itemSpacing": 20,
+                        "padding": {
+                          "left": 0,
+                          "top": 0,
+                          "right": 0,
+                          "bottom": 0
+                        }
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I771:5833;5070:35846;2172:4745",
+                        "name": "Title",
+                        "type": "TEXT",
+                        "properties": {
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 56,
+                                  "g": 64,
+                                  "b": 69,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          },
+                          "text": "Links",
+                          "font": {
+                            "family": "Inter",
+                            "style": "Semi Bold",
+                            "size": 64
+                          },
+                          "lineHeight": {
+                            "unit": "PIXELS",
+                            "value": 92
+                          },
+                          "alignment": "LEFT"
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "I771:5833;5070:35846;5070:40151",
+                        "name": "Text badge",
+                        "type": "INSTANCE",
+                        "properties": {
+                          "componentInfo": {
+                            "mainComponent": {
+                              "id": "310:29021",
+                              "name": "Color=Green, Type=Rectangle",
+                              "key": "1b7de75592171bc679cb044eefcf39f17f0d7a54"
+                            }
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 101,
+                                  "g": 178,
+                                  "b": 0,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          }
+                        },
+                        "children": [
+                          {
+                            "id": "I771:5833;5070:35846;5070:40151;16158:86092",
+                            "name": "Time/Clock",
+                            "type": "INSTANCE",
+                            "properties": {
+                              "componentInfo": {
+                                "mainComponent": {
+                                  "id": "19:9564",
+                                  "name": "Type=ClockOutlined",
+                                  "key": "a2185218ca71cdfb0eff745eba7b09be53f645b1"
+                                }
+                              },
+                              "rotation": 0,
+                              "styles": {
+                                "fills": [],
+                                "strokes": [],
+                                "effects": []
+                              }
+                            },
+                            "children": [
+                              {
+                                "id": "I771:5833;5070:35846;5070:40151;16158:86092;157:13461",
+                                "name": "Vector",
+                                "type": "VECTOR",
+                                "properties": {
+                                  "rotation": 0,
+                                  "styles": {
+                                    "fills": [
+                                      {
+                                        "type": "SOLID",
+                                        "color": {
+                                          "r": 56,
+                                          "g": 64,
+                                          "b": 69,
+                                          "a": 1
+                                        },
+                                        "opacity": 1
+                                      }
+                                    ],
+                                    "strokes": [
+                                      {
+                                        "type": "SOLID",
+                                        "color": {
+                                          "r": 151,
+                                          "g": 151,
+                                          "b": 151,
+                                          "a": 1
+                                        },
+                                        "opacity": 1
+                                      }
+                                    ],
+                                    "effects": []
+                                  }
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "I771:5833;5070:35846;5070:40151;310:29022",
+                            "name": "Low",
+                            "type": "TEXT",
+                            "properties": {
+                              "rotation": 0,
+                              "styles": {
+                                "fills": [
+                                  {
+                                    "type": "SOLID",
+                                    "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                    },
+                                    "opacity": 1
+                                  }
+                                ],
+                                "strokes": [],
+                                "effects": []
+                              },
+                              "text": "New",
+                              "font": {
+                                "family": "Inter",
+                                "style": "Regular",
+                                "size": 16
+                              },
+                              "lineHeight": {
+                                "unit": "PIXELS",
+                                "value": 19
+                              },
+                              "alignment": "CENTER"
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I771:5833;5070:35846;2172:4746",
+                    "name": "Text",
+                    "type": "TEXT",
+                    "properties": {
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 56,
+                              "g": 64,
+                              "b": 69,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "A Text Link is an interactive navigational element used to navigate users to another page or section. They may appear on their own, within a sentence or paragraph, or directly following the content.",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 20
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 24
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  },
+                  {
+                    "id": "I771:5833;5070:35846;6113:32422",
+                    "name": ".Component description assets",
+                    "type": "INSTANCE",
+                    "properties": {
+                      "componentInfo": {
+                        "mainComponent": {
+                          "id": "6113:31184",
+                          "name": "Type=Seperator",
+                          "key": "b1417395b7dc4791e97cdf3fa7456bbece0d0700"
+                        }
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I771:5833;5070:35846;6113:32422;6113:31183",
+                        "name": "Divider",
+                        "type": "LINE",
+                        "properties": {
+                          "rotation": 0.000005099874601988761,
+                          "styles": {
+                            "fills": [],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 187,
+                                  "g": 190,
+                                  "b": 192,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "I771:5833;5070:38443",
+            "name": ".Seperator",
+            "type": "INSTANCE",
+            "properties": {
+              "componentInfo": {
+                "mainComponent": {
+                  "id": "25:2453",
+                  "name": ".Seperator",
+                  "key": "aa57e9a6abbcc4b8d0d0e0416367e828cd1ba765"
+                }
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "I771:5833;5070:38443;71172:257086",
+                "name": "Divider",
+                "type": "LINE",
+                "properties": {
+                  "rotation": 0.000005099874601988761,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 187,
+                          "g": 190,
+                          "b": 192,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5070:34361",
+        "name": "Components",
+        "type": "FRAME",
+        "properties": {
+          "position": {
+            "x": -1584,
+            "y": 997
+          },
+          "size": {
+            "width": 134,
+            "height": 420
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          },
+          "layout": {
+            "direction": "VERTICAL",
+            "itemSpacing": 40,
+            "padding": {
+              "left": 0,
+              "top": 64,
+              "right": 0,
+              "bottom": 0
+            }
+          }
+        },
+        "children": [
+          {
+            "id": "517:13667",
+            "name": "Link",
+            "type": "COMPONENT_SET",
+            "properties": {
+              "position": {
+                "x": -1584,
+                "y": 1061
+              },
+              "size": {
+                "width": 134,
+                "height": 224
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 187,
+                      "g": 107,
+                      "b": 217,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "675:16069",
+                "name": "Text size=12px, State=Default",
+                "type": "COMPONENT",
+                "properties": {
+                  "position": {
+                    "x": -1529,
+                    "y": 1085
+                  },
+                  "size": {
+                    "width": 24,
+                    "height": 14
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "675:16070",
+                    "name": "Read more",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -1527.9432373046875,
+                        "y": 1087
+                      },
+                      "size": {
+                        "width": 21.9183349609375,
+                        "height": 9
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 16,
+                              "g": 135,
+                              "b": 210,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Link",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 12
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 14
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "517:13657",
+                "name": "Text size=13px, State=Default",
+                "type": "COMPONENT",
+                "properties": {
+                  "position": {
+                    "x": -1530,
+                    "y": 1115
+                  },
+                  "size": {
+                    "width": 26,
+                    "height": 17
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "517:13564",
+                    "name": "Read more",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -1528.8551025390625,
+                        "y": 1118.25
+                      },
+                      "size": {
+                        "width": 23.744873046875,
+                        "height": 9.75
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 16,
+                              "g": 135,
+                              "b": 210,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Link",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 13
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 17
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "517:13669",
+                "name": "Text size=14px, State=Default",
+                "type": "COMPONENT",
+                "properties": {
+                  "position": {
+                    "x": -1531,
+                    "y": 1148
+                  },
+                  "size": {
+                    "width": 28,
+                    "height": 17
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "517:13668",
+                    "name": "Links/Blue alert",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -1529.76708984375,
+                        "y": 1151.5
+                      },
+                      "size": {
+                        "width": 25.5714111328125,
+                        "height": 10.5
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 16,
+                              "g": 135,
+                              "b": 210,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Link",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 14
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 17
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7504:5961",
+                "name": "Text size=12px, State=Hover",
+                "type": "COMPONENT",
+                "properties": {
+                  "position": {
+                    "x": -1529,
+                    "y": 1181
+                  },
+                  "size": {
+                    "width": 24,
+                    "height": 14
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "7504:5962",
+                    "name": "Read more",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -1527.9432373046875,
+                        "y": 1183
+                      },
+                      "size": {
+                        "width": 21.9183349609375,
+                        "height": 9
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 1,
+                              "g": 112,
+                              "b": 181,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Link",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 12
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 14
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7504:5959",
+                "name": "Text size=13px, State=Hover",
+                "type": "COMPONENT",
+                "properties": {
+                  "position": {
+                    "x": -1530,
+                    "y": 1211
+                  },
+                  "size": {
+                    "width": 26,
+                    "height": 17
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "7504:5960",
+                    "name": "Read more",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -1528.8551025390625,
+                        "y": 1214.25
+                      },
+                      "size": {
+                        "width": 23.744873046875,
+                        "height": 9.75
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 1,
+                              "g": 112,
+                              "b": 181,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Link",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 13
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 17
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7504:5957",
+                "name": "Text size=14px, State=Hover",
+                "type": "COMPONENT",
+                "properties": {
+                  "position": {
+                    "x": -1531,
+                    "y": 1244
+                  },
+                  "size": {
+                    "width": 28,
+                    "height": 17
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "7504:5958",
+                    "name": "Links/Blue alert",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -1529.76708984375,
+                        "y": 1247.5
+                      },
+                      "size": {
+                        "width": 25.5714111328125,
+                        "height": 10.5
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 1,
+                              "g": 112,
+                              "b": 181,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Link",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 14
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 17
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7510:601",
+            "name": "View more link",
+            "type": "COMPONENT_SET",
+            "properties": {
+              "position": {
+                "x": -1584,
+                "y": 1325
+              },
+              "size": {
+                "width": 134,
+                "height": 92
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 151,
+                      "g": 71,
+                      "b": 255,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "5070:34360",
+                "name": "State=Default",
+                "type": "COMPONENT",
+                "properties": {
+                  "position": {
+                    "x": -1564,
+                    "y": 1333
+                  },
+                  "size": {
+                    "width": 94,
+                    "height": 34
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "7504:6304",
+                    "name": "Link",
+                    "type": "INSTANCE",
+                    "properties": {
+                      "componentInfo": {
+                        "mainComponent": {
+                          "id": "517:13669",
+                          "name": "Text size=14px, State=Default",
+                          "key": "a10fb8187227b0638d8b15a888027fd6f9a2cc44"
+                        }
+                      },
+                      "position": {
+                        "x": -1560,
+                        "y": 1341.5
+                      },
+                      "size": {
+                        "width": 72,
+                        "height": 17
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I7504:6304;517:13668",
+                        "name": "Links/Blue alert",
+                        "type": "TEXT",
+                        "properties": {
+                          "position": {
+                            "x": -1558.76708984375,
+                            "y": 1345.3182373046875
+                          },
+                          "size": {
+                            "width": 69.24560546875,
+                            "height": 10.3607177734375
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 16,
+                                  "g": 135,
+                                  "b": 210,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          },
+                          "text": "Read more",
+                          "font": {
+                            "family": "Inter",
+                            "style": "Regular",
+                            "size": 14
+                          },
+                          "lineHeight": {
+                            "unit": "PIXELS",
+                            "value": 17
+                          },
+                          "alignment": "LEFT"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2917:7114",
+                    "name": "Icon",
+                    "type": "INSTANCE",
+                    "properties": {
+                      "componentInfo": {
+                        "mainComponent": {
+                          "id": "28:35696",
+                          "name": "Direction=Down",
+                          "key": "65c7a0491cc2a314629450dd23039abdff6b213e"
+                        }
+                      },
+                      "position": {
+                        "x": -1488.000000786805,
+                        "y": 1340.999999213195
+                      },
+                      "size": {
+                        "width": 18.000000786805003,
+                        "height": 18.000000786805003
+                      },
+                      "rotation": 90.00000250447808,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I2917:7114;157:13635",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "properties": {
+                          "position": {
+                            "x": -1481.442138671875,
+                            "y": 1345.5
+                          },
+                          "size": {
+                            "width": 5.550048828125,
+                            "height": 9
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 16,
+                                  "g": 135,
+                                  "b": 210,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 16,
+                                  "g": 135,
+                                  "b": 210,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "7510:602",
+                "name": "State=Hover",
+                "type": "COMPONENT",
+                "properties": {
+                  "position": {
+                    "x": -1562,
+                    "y": 1375
+                  },
+                  "size": {
+                    "width": 90,
+                    "height": 34
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "7510:603",
+                    "name": "Link",
+                    "type": "INSTANCE",
+                    "properties": {
+                      "componentInfo": {
+                        "mainComponent": {
+                          "id": "517:13669",
+                          "name": "Text size=14px, State=Default",
+                          "key": "a10fb8187227b0638d8b15a888027fd6f9a2cc44"
+                        }
+                      },
+                      "position": {
+                        "x": -1562,
+                        "y": 1383.5
+                      },
+                      "size": {
+                        "width": 72,
+                        "height": 17
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I7510:603;517:13668",
+                        "name": "Links/Blue alert",
+                        "type": "TEXT",
+                        "properties": {
+                          "position": {
+                            "x": -1560.76708984375,
+                            "y": 1387.3182373046875
+                          },
+                          "size": {
+                            "width": 69.24560546875,
+                            "height": 10.3607177734375
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 1,
+                                  "g": 112,
+                                  "b": 181,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                          },
+                          "text": "Read more",
+                          "font": {
+                            "family": "Inter",
+                            "style": "Regular",
+                            "size": 14
+                          },
+                          "lineHeight": {
+                            "unit": "PIXELS",
+                            "value": 17
+                          },
+                          "alignment": "LEFT"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7510:604",
+                    "name": "Icon",
+                    "type": "INSTANCE",
+                    "properties": {
+                      "componentInfo": {
+                        "mainComponent": {
+                          "id": "28:35696",
+                          "name": "Direction=Down",
+                          "key": "65c7a0491cc2a314629450dd23039abdff6b213e"
+                        }
+                      },
+                      "position": {
+                        "x": -1490.000000786805,
+                        "y": 1382.999999213195
+                      },
+                      "size": {
+                        "width": 18.000000786805003,
+                        "height": 18.000000786805003
+                      },
+                      "rotation": 90.00000250447808,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I7510:604;157:13635",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "properties": {
+                          "position": {
+                            "x": -1483.442138671875,
+                            "y": 1387.5
+                          },
+                          "size": {
+                            "width": 5.550048828125,
+                            "height": 9
+                          },
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 1,
+                                  "g": 112,
+                                  "b": 181,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 1,
+                                  "g": 112,
+                                  "b": 181,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5070:41205",
+        "name": ".Seperator",
+        "type": "INSTANCE",
+        "properties": {
+          "componentInfo": {
+            "mainComponent": {
+              "id": "25:2453",
+              "name": ".Seperator",
+              "key": "aa57e9a6abbcc4b8d0d0e0416367e828cd1ba765"
+            }
+          },
+          "position": {
+            "x": -2117,
+            "y": 1417
+          },
+          "size": {
+            "width": 1200,
+            "height": 64.0001220703125
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "I5070:41205;71172:257086",
+            "name": "Divider",
+            "type": "LINE",
+            "properties": {
+              "position": {
+                "x": -2053,
+                "y": 1448
+              },
+              "size": {
+                "width": 1072,
+                "height": 1.0001220703125
+              },
+              "rotation": 0.000005099874601988761,
+              "styles": {
+                "fills": [],
+                "strokes": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 187,
+                      "g": 190,
+                      "b": 192,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "effects": []
+              }
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "5070:34362",
+        "name": ".Component description assets",
+        "type": "INSTANCE",
+        "properties": {
+          "componentInfo": {
+            "mainComponent": {
+              "id": "2172:4747",
+              "name": ".Component description assets/Title with description",
+              "key": "27a6a125d3f46030583b68db6139f4b24a612e72"
+            }
+          },
+          "position": {
+            "x": -2117,
+            "y": 1481
+          },
+          "size": {
+            "width": 1200,
+            "height": 104
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "I5070:34362;5070:39537",
+            "name": "Title",
+            "type": "FRAME",
+            "properties": {
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "HORIZONTAL",
+                "itemSpacing": 20,
+                "padding": {
+                  "left": 0,
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "I5070:34362;2172:4745",
+                "name": "Title",
+                "type": "TEXT",
+                "properties": {
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Back link",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Semi Bold",
+                    "size": 64
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 92
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "I5070:34362;5070:40151",
+                "name": "Text badge",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "310:29021",
+                      "name": "Color=Green, Type=Rectangle",
+                      "key": "1b7de75592171bc679cb044eefcf39f17f0d7a54"
+                    }
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 101,
+                          "g": 178,
+                          "b": 0,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I5070:34362;5070:40151;16158:86092",
+                    "name": "Time/Clock",
+                    "type": "INSTANCE",
+                    "properties": {
+                      "componentInfo": {
+                        "mainComponent": {
+                          "id": "19:9564",
+                          "name": "Type=ClockOutlined",
+                          "key": "a2185218ca71cdfb0eff745eba7b09be53f645b1"
+                        }
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [],
+                        "strokes": [],
+                        "effects": []
+                      }
+                    },
+                    "children": [
+                      {
+                        "id": "I5070:34362;5070:40151;16158:86092;157:13461",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "properties": {
+                          "rotation": 0,
+                          "styles": {
+                            "fills": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 56,
+                                  "g": 64,
+                                  "b": 69,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "strokes": [
+                              {
+                                "type": "SOLID",
+                                "color": {
+                                  "r": 151,
+                                  "g": 151,
+                                  "b": 151,
+                                  "a": 1
+                                },
+                                "opacity": 1
+                              }
+                            ],
+                            "effects": []
+                          }
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I5070:34362;5070:40151;310:29022",
+                    "name": "Low",
+                    "type": "TEXT",
+                    "properties": {
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "New",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 16
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 19
+                      },
+                      "alignment": "CENTER"
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "I5070:34362;2172:4746",
+            "name": "Text",
+            "type": "TEXT",
+            "properties": {
+              "position": {
+                "x": -2051.4658203125,
+                "y": 1485
+              },
+              "size": {
+                "width": 662.6650390625,
+                "height": 67.3182373046875
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              },
+              "text": "Back link - A navigational element that redirects users to the previous page, allowing easy return to their prior location without disrupting the browsing flow.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "size": 20
+              },
+              "lineHeight": {
+                "unit": "PIXELS",
+                "value": 24
+              },
+              "alignment": "LEFT"
+            },
+            "children": []
+          },
+          {
+            "id": "I5070:34362;6113:32422",
+            "name": ".Component description assets",
+            "type": "INSTANCE",
+            "properties": {
+              "componentInfo": {
+                "mainComponent": {
+                  "id": "6113:31184",
+                  "name": "Type=Seperator",
+                  "key": "b1417395b7dc4791e97cdf3fa7456bbece0d0700"
+                }
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "I5070:34362;6113:32422;6113:31183",
+                "name": "Divider",
+                "type": "LINE",
+                "properties": {
+                  "rotation": 0.000005099874601988761,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 187,
+                          "g": 190,
+                          "b": 192,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7510:607",
+        "name": "Back button",
+        "type": "COMPONENT_SET",
+        "properties": {
+          "position": {
+            "x": -1556.5,
+            "y": 1585
+          },
+          "size": {
+            "width": 79,
+            "height": 72
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 151,
+                  "g": 71,
+                  "b": 255,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "5070:33688",
+            "name": "State=Default",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -1548.5,
+                "y": 1593
+              },
+              "size": {
+                "width": 63,
+                "height": 24
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "5070:33685",
+                "name": "Navigation/Chevron",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "28:35698",
+                      "name": "Direction=Left",
+                      "key": "c09bd40cbcd3eb7163897782cb74ebc1cf059576"
+                    }
+                  },
+                  "position": {
+                    "x": -1548.5,
+                    "y": 1593
+                  },
+                  "size": {
+                    "width": 24,
+                    "height": 24
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I5070:33685;157:13790",
+                    "name": "Vector",
+                    "type": "VECTOR",
+                    "properties": {
+                      "position": {
+                        "x": -1540.199951171875,
+                        "y": 1599.4444580078125
+                      },
+                      "size": {
+                        "width": 7.4000244140625,
+                        "height": 12
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 16,
+                              "g": 135,
+                              "b": 210,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 151,
+                              "g": 151,
+                              "b": 151,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7504:6307",
+                "name": "Link",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "517:13669",
+                      "name": "Text size=14px, State=Default",
+                      "key": "a10fb8187227b0638d8b15a888027fd6f9a2cc44"
+                    }
+                  },
+                  "position": {
+                    "x": -1522.5,
+                    "y": 1596.5
+                  },
+                  "size": {
+                    "width": 33,
+                    "height": 17
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I7504:6307;517:13668",
+                    "name": "Links/Blue alert",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -1521.26708984375,
+                        "y": 1600.3182373046875
+                      },
+                      "size": {
+                        "width": 30.9991455078125,
+                        "height": 10.3607177734375
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 16,
+                              "g": 135,
+                              "b": 210,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Back",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 14
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 17
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7510:608",
+            "name": "State=Hover",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -1548.5,
+                "y": 1625
+              },
+              "size": {
+                "width": 63,
+                "height": 24
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "7510:609",
+                "name": "Navigation/Chevron",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "28:35698",
+                      "name": "Direction=Left",
+                      "key": "c09bd40cbcd3eb7163897782cb74ebc1cf059576"
+                    }
+                  },
+                  "position": {
+                    "x": -1548.5,
+                    "y": 1625
+                  },
+                  "size": {
+                    "width": 24,
+                    "height": 24
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I7510:609;157:13790",
+                    "name": "Vector",
+                    "type": "VECTOR",
+                    "properties": {
+                      "position": {
+                        "x": -1540.199951171875,
+                        "y": 1631.4444580078125
+                      },
+                      "size": {
+                        "width": 7.4000244140625,
+                        "height": 12
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 1,
+                              "g": 112,
+                              "b": 181,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 151,
+                              "g": 151,
+                              "b": 151,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "effects": []
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7510:610",
+                "name": "Link",
+                "type": "INSTANCE",
+                "properties": {
+                  "componentInfo": {
+                    "mainComponent": {
+                      "id": "517:13669",
+                      "name": "Text size=14px, State=Default",
+                      "key": "a10fb8187227b0638d8b15a888027fd6f9a2cc44"
+                    }
+                  },
+                  "position": {
+                    "x": -1522.5,
+                    "y": 1628.5
+                  },
+                  "size": {
+                    "width": 33,
+                    "height": 17
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": [
+                  {
+                    "id": "I7510:610;517:13668",
+                    "name": "Links/Blue alert",
+                    "type": "TEXT",
+                    "properties": {
+                      "position": {
+                        "x": -1521.26708984375,
+                        "y": 1632.3182373046875
+                      },
+                      "size": {
+                        "width": 30.9991455078125,
+                        "height": 10.3607177734375
+                      },
+                      "rotation": 0,
+                      "styles": {
+                        "fills": [
+                          {
+                            "type": "SOLID",
+                            "color": {
+                              "r": 1,
+                              "g": 112,
+                              "b": 181,
+                              "a": 1
+                            },
+                            "opacity": 1
+                          }
+                        ],
+                        "strokes": [],
+                        "effects": []
+                      },
+                      "text": "Back",
+                      "font": {
+                        "family": "Inter",
+                        "style": "Regular",
+                        "size": 14
+                      },
+                      "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 17
+                      },
+                      "alignment": "LEFT"
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5070:41197",
+        "name": ".Component description assets",
+        "type": "INSTANCE",
+        "properties": {
+          "componentInfo": {
+            "mainComponent": {
+              "id": "5070:34584",
+              "name": "Type=Component description footer",
+              "key": "181d02fb9c2e45367d07f3c02f5543d04a3d2145"
+            }
+          },
+          "position": {
+            "x": -2117,
+            "y": 1657
+          },
+          "size": {
+            "width": 1200,
+            "height": 230.0001220703125
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "I5070:41197;6113:31186",
+            "name": ".Component description assets",
+            "type": "INSTANCE",
+            "properties": {
+              "componentInfo": {
+                "mainComponent": {
+                  "id": "6113:31184",
+                  "name": "Type=Seperator",
+                  "key": "b1417395b7dc4791e97cdf3fa7456bbece0d0700"
+                }
+              },
+              "position": {
+                "x": -2117,
+                "y": 1657
+              },
+              "size": {
+                "width": 1200,
+                "height": 108.0001220703125
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "I5070:41197;6113:31186;6113:31183",
+                "name": "Divider",
+                "type": "LINE",
+                "properties": {
+                  "position": {
+                    "x": -2053,
+                    "y": 1720
+                  },
+                  "size": {
+                    "width": 1072,
+                    "height": 1.0001220703125
+                  },
+                  "rotation": 0.000005099874601988761,
+                  "styles": {
+                    "fills": [],
+                    "strokes": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 187,
+                          "g": 190,
+                          "b": 192,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "I5070:41197;5070:39530",
+            "name": "Text",
+            "type": "FRAME",
+            "properties": {
+              "position": {
+                "x": -2117,
+                "y": 1765.0001220703125
+              },
+              "size": {
+                "width": 1200,
+                "height": 58
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [],
+                "strokes": [],
+                "effects": []
+              },
+              "layout": {
+                "direction": "VERTICAL",
+                "itemSpacing": 12,
+                "padding": {
+                  "left": 64,
+                  "top": 0,
+                  "right": 64,
+                  "bottom": 0
+                }
+              }
+            },
+            "children": [
+              {
+                "id": "I5070:41197;171:20011",
+                "name": "Title",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -2051.5654296875,
+                    "y": 1769.255859375
+                  },
+                  "size": {
+                    "width": 127.205322265625,
+                    "height": 19.0625
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 0,
+                          "g": 0,
+                          "b": 0,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Found a bug?",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Semi Bold",
+                    "size": 20
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 24
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "I5070:41197;171:20013",
+                "name": "Description",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -2052.164794921875,
+                    "y": 1804.6790771484375
+                  },
+                  "size": {
+                    "width": 174.2940673828125,
+                    "height": 13.34375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 0,
+                          "g": 0,
+                          "b": 0,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Create a comment and tag ",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 14
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 17
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7504:6297",
+        "name": "Default",
+        "type": "TEXT",
+        "properties": {
+          "position": {
+            "x": -1643.9432373046875,
+            "y": 1083.8636474609375
+          },
+          "size": {
+            "width": 39.15771484375,
+            "height": 9.289794921875
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 56,
+                  "g": 64,
+                  "b": 69,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "text": "Default",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "size": 12
+          },
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 14
+          },
+          "alignment": "LEFT"
+        },
+        "children": []
+      },
+      {
+        "id": "7510:622",
+        "name": "Default",
+        "type": "TEXT",
+        "properties": {
+          "position": {
+            "x": -1643.9432373046875,
+            "y": 1344.8636474609375
+          },
+          "size": {
+            "width": 39.15771484375,
+            "height": 9.289794921875
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 56,
+                  "g": 64,
+                  "b": 69,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "text": "Default",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "size": 12
+          },
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 14
+          },
+          "alignment": "LEFT"
+        },
+        "children": []
+      },
+      {
+        "id": "7510:624",
+        "name": "Default",
+        "type": "TEXT",
+        "properties": {
+          "position": {
+            "x": -1609.9432373046875,
+            "y": 1601.8636474609375
+          },
+          "size": {
+            "width": 39.15771484375,
+            "height": 9.289794921875
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 56,
+                  "g": 64,
+                  "b": 69,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "text": "Default",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "size": 12
+          },
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 14
+          },
+          "alignment": "LEFT"
+        },
+        "children": []
+      },
+      {
+        "id": "7504:6298",
+        "name": "Hover",
+        "type": "TEXT",
+        "properties": {
+          "position": {
+            "x": -1636.9432373046875,
+            "y": 1180.272705078125
+          },
+          "size": {
+            "width": 32.374755859375,
+            "height": 8.8636474609375
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 56,
+                  "g": 64,
+                  "b": 69,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "text": "Hover",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "size": 12
+          },
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 14
+          },
+          "alignment": "LEFT"
+        },
+        "children": []
+      },
+      {
+        "id": "7510:623",
+        "name": "Hover",
+        "type": "TEXT",
+        "properties": {
+          "position": {
+            "x": -1636.9432373046875,
+            "y": 1388.272705078125
+          },
+          "size": {
+            "width": 32.374755859375,
+            "height": 8.8636474609375
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 56,
+                  "g": 64,
+                  "b": 69,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "text": "Hover",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "size": 12
+          },
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 14
+          },
+          "alignment": "LEFT"
+        },
+        "children": []
+      },
+      {
+        "id": "7510:625",
+        "name": "Hover",
+        "type": "TEXT",
+        "properties": {
+          "position": {
+            "x": -1602.9432373046875,
+            "y": 1634.272705078125
+          },
+          "size": {
+            "width": 32.374755859375,
+            "height": 8.8636474609375
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 56,
+                  "g": 64,
+                  "b": 69,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "text": "Hover",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "size": 12
+          },
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 14
+          },
+          "alignment": "LEFT"
+        },
+        "children": []
+      }
+    ]
+  }
+]
