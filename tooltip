@@ -1,0 +1,1567 @@
+[
+  {
+    "id": "2416:6261",
+    "name": "Layout ",
+    "type": "FRAME",
+    "properties": {
+      "position": {
+        "x": -479,
+        "y": -547
+      },
+      "size": {
+        "width": 719,
+        "height": 374
+      },
+      "rotation": 0,
+      "styles": {
+        "fills": [],
+        "strokes": [],
+        "effects": []
+      },
+      "layout": {
+        "direction": "VERTICAL",
+        "itemSpacing": 34,
+        "padding": {
+          "left": 0,
+          "top": 60,
+          "right": 0,
+          "bottom": 30
+        }
+      }
+    },
+    "children": [
+      {
+        "id": "258:11610",
+        "name": "Tooltip",
+        "type": "COMPONENT_SET",
+        "properties": {
+          "position": {
+            "x": -479,
+            "y": -487
+          },
+          "size": {
+            "width": 719,
+            "height": 284
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [],
+            "strokes": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 187,
+                  "g": 107,
+                  "b": 217,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "effects": []
+          }
+        },
+        "children": [
+          {
+            "id": "258:11613",
+            "name": "Pointer direction=No pointer, Pointer alignment=No pointer, Show Pointer=False",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -455,
+                "y": -463
+              },
+              "size": {
+                "width": 152,
+                "height": 40
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "258:11614",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -446.4204406738281,
+                    "y": -455
+                  },
+                  "size": {
+                    "width": 121.95913696289062,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2127:3436",
+            "name": "Pointer direction=Bottom, Pointer alignment=Center, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -271,
+                "y": -463
+              },
+              "size": {
+                "width": 152,
+                "height": 45.481414794921875
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "2127:3437",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -262.4204406738281,
+                    "y": -455
+                  },
+                  "size": {
+                    "width": 121.95915222167969,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "2127:3438",
+                "name": "Polygon 2",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": -200.7981719970703,
+                    "y": -425
+                  },
+                  "size": {
+                    "width": 11.596343994140625,
+                    "height": 7.481414794921875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8089:1271",
+            "name": "Pointer direction=Bottom, Pointer alignment=Left, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -104,
+                "y": -463
+              },
+              "size": {
+                "width": 152,
+                "height": 45.481414794921875
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8089:1272",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -95.42045593261719,
+                    "y": -455
+                  },
+                  "size": {
+                    "width": 121.95916748046875,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8089:64591",
+                "name": "Polygon 2",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": -94.79817962646484,
+                    "y": -425
+                  },
+                  "size": {
+                    "width": 11.596359252929688,
+                    "height": 7.481414794921875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8089:1277",
+            "name": "Pointer direction=Bottom, Pointer alignment=Right, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 64,
+                "y": -463
+              },
+              "size": {
+                "width": 152,
+                "height": 45.481414794921875
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8089:1278",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 72.57954406738281,
+                    "y": -455
+                  },
+                  "size": {
+                    "width": 121.95916748046875,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8089:1279",
+                "name": "Polygon 2",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": 195.2018280029297,
+                    "y": -425
+                  },
+                  "size": {
+                    "width": 11.596343994140625,
+                    "height": 7.481414794921875
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8048:1523",
+            "name": "Pointer direction=Top, Pointer alignment=Center, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -271,
+                "y": -404.5856628417969
+              },
+              "size": {
+                "width": 152,
+                "height": 45.585662841796875
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8048:1524",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -262.4204406738281,
+                    "y": -391
+                  },
+                  "size": {
+                    "width": 121.95915222167969,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8048:1536",
+                "name": "Polygon 3",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": -203,
+                    "y": -404.5856628417969
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 7.585784912109375
+                  },
+                  "rotation": -179.99999499104388,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8089:1268",
+            "name": "Pointer direction=Top, Pointer alignment=Left, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -104,
+                "y": -404.5856628417969
+              },
+              "size": {
+                "width": 152,
+                "height": 45.585662841796875
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8089:1269",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -95.42045593261719,
+                    "y": -391
+                  },
+                  "size": {
+                    "width": 121.95916748046875,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8089:1270",
+                "name": "Polygon 3",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": -96,
+                    "y": -404.5856628417969
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 7.585784912109375
+                  },
+                  "rotation": -179.99999499104388,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8089:1274",
+            "name": "Pointer direction=Top, Pointer alignment=Right, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 64,
+                "y": -404.5856628417969
+              },
+              "size": {
+                "width": 152,
+                "height": 45.585662841796875
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8089:1275",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 72.57954406738281,
+                    "y": -391
+                  },
+                  "size": {
+                    "width": 121.95916748046875,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8089:1276",
+                "name": "Polygon 3",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": 192,
+                    "y": -404.5856628417969
+                  },
+                  "size": {
+                    "width": 16,
+                    "height": 7.585784912109375
+                  },
+                  "rotation": -179.99999499104388,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8048:1528",
+            "name": "Pointer direction=Left, Pointer alignment=Center, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -276.5857849121094,
+                "y": -335
+              },
+              "size": {
+                "width": 157.58578491210938,
+                "height": 40
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8048:1529",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -262.4204406738281,
+                    "y": -327
+                  },
+                  "size": {
+                    "width": 121.95915222167969,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8048:1538",
+                "name": "Polygon 3",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": -276.5857849121094,
+                    "y": -323
+                  },
+                  "size": {
+                    "width": 7.585784912109375,
+                    "height": 16
+                  },
+                  "rotation": -90.00000250447808,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8089:64593",
+            "name": "Pointer direction=Left, Pointer alignment=Top, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -109.5857925415039,
+                "y": -335
+              },
+              "size": {
+                "width": 157.5857925415039,
+                "height": 40
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8089:64594",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -95.42045593261719,
+                    "y": -327
+                  },
+                  "size": {
+                    "width": 121.95916748046875,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8089:64595",
+                "name": "Polygon 3",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": -109.5857925415039,
+                    "y": -327
+                  },
+                  "size": {
+                    "width": 7.585792541503906,
+                    "height": 16
+                  },
+                  "rotation": -90.00000250447808,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8089:64599",
+            "name": "Pointer direction=Left, Pointer alignment=Bottom, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 58.414207458496094,
+                "y": -335
+              },
+              "size": {
+                "width": 157.5857925415039,
+                "height": 40
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8089:64600",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 72.57954406738281,
+                    "y": -327
+                  },
+                  "size": {
+                    "width": 121.95916748046875,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8089:64601",
+                "name": "Polygon 3",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": 58.414207458496094,
+                    "y": -319
+                  },
+                  "size": {
+                    "width": 7.585792541503906,
+                    "height": 16
+                  },
+                  "rotation": -90.00000250447808,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8048:1531",
+            "name": "Pointer direction=Right, Pointer alignment=Center, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -271,
+                "y": -271
+              },
+              "size": {
+                "width": 157.58578491210938,
+                "height": 40
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8048:1532",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -262.4204406738281,
+                    "y": -263
+                  },
+                  "size": {
+                    "width": 121.95915222167969,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8048:1540",
+                "name": "Polygon 3",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": -121,
+                    "y": -259
+                  },
+                  "size": {
+                    "width": 7.585792541503906,
+                    "height": 16
+                  },
+                  "rotation": 90.00000250447808,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8089:64596",
+            "name": "Pointer direction=Right, Pointer alignment=Top, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": -104,
+                "y": -271
+              },
+              "size": {
+                "width": 157.58578491210938,
+                "height": 40
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8089:64597",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": -95.42045593261719,
+                    "y": -263
+                  },
+                  "size": {
+                    "width": 121.95916748046875,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8089:64598",
+                "name": "Polygon 3",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": 46,
+                    "y": -263
+                  },
+                  "size": {
+                    "width": 7.585792541503906,
+                    "height": 16
+                  },
+                  "rotation": 90.00000250447808,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8089:64602",
+            "name": "Pointer direction=Right, Pointer alignment=Bottom, Show Pointer=True",
+            "type": "COMPONENT",
+            "properties": {
+              "position": {
+                "x": 64,
+                "y": -271
+              },
+              "size": {
+                "width": 157.58578491210938,
+                "height": 40
+              },
+              "rotation": 0,
+              "styles": {
+                "fills": [
+                  {
+                    "type": "SOLID",
+                    "color": {
+                      "r": 56,
+                      "g": 64,
+                      "b": 69,
+                      "a": 1
+                    },
+                    "opacity": 1
+                  }
+                ],
+                "strokes": [],
+                "effects": []
+              }
+            },
+            "children": [
+              {
+                "id": "8089:64603",
+                "name": "Te",
+                "type": "TEXT",
+                "properties": {
+                  "position": {
+                    "x": 72.57954406738281,
+                    "y": -263
+                  },
+                  "size": {
+                    "width": 121.95916748046875,
+                    "height": 25.590911865234375
+                  },
+                  "rotation": 0,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 255,
+                          "g": 255,
+                          "b": 255,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  },
+                  "text": "Tooltip large long text goes here",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "size": 12
+                  },
+                  "lineHeight": {
+                    "unit": "PIXELS",
+                    "value": 14
+                  },
+                  "alignment": "LEFT"
+                },
+                "children": []
+              },
+              {
+                "id": "8089:64604",
+                "name": "Polygon 3",
+                "type": "VECTOR",
+                "properties": {
+                  "position": {
+                    "x": 214,
+                    "y": -255
+                  },
+                  "size": {
+                    "width": 7.585784912109375,
+                    "height": 16
+                  },
+                  "rotation": 90.00000250447808,
+                  "styles": {
+                    "fills": [
+                      {
+                        "type": "SOLID",
+                        "color": {
+                          "r": 56,
+                          "g": 64,
+                          "b": 69,
+                          "a": 1
+                        },
+                        "opacity": 1
+                      }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8048:1514",
+        "name": "With pointer",
+        "type": "TEXT",
+        "properties": {
+          "position": {
+            "x": -66.61279296875,
+            "y": -513.3203125
+          },
+          "size": {
+            "width": 64.2265625,
+            "height": 10.5703125
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 56,
+                  "g": 64,
+                  "b": 69,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "text": "With pointer",
+          "font": {
+            "family": "Inter",
+            "style": "Medium",
+            "size": 11
+          },
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 12
+          },
+          "alignment": "CENTER"
+        },
+        "children": []
+      },
+      {
+        "id": "8048:1516",
+        "name": "Simple",
+        "type": "TEXT",
+        "properties": {
+          "position": {
+            "x": -403.19970703125,
+            "y": -513.3203125
+          },
+          "size": {
+            "width": 34.451171875,
+            "height": 10.5703125
+          },
+          "rotation": 0,
+          "styles": {
+            "fills": [
+              {
+                "type": "SOLID",
+                "color": {
+                  "r": 56,
+                  "g": 64,
+                  "b": 69,
+                  "a": 1
+                },
+                "opacity": 1
+              }
+            ],
+            "strokes": [],
+            "effects": []
+          },
+          "text": "Simple",
+          "font": {
+            "family": "Inter",
+            "style": "Medium",
+            "size": 11
+          },
+          "lineHeight": {
+            "unit": "PIXELS",
+            "value": 12
+          },
+          "alignment": "CENTER"
+        },
+        "children": []
+      }
+    ]
+  }
+]
